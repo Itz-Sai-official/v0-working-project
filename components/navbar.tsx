@@ -46,7 +46,7 @@ export default function Navbar() {
             href="#"
             className={cn("text-2xl font-bold transition-colors", isScrolled ? "text-purple-900" : "text-white")}
           >
-            Logo
+            Casel
           </Link>
 
           {/* Desktop Navigation */}
